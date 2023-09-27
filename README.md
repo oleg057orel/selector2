@@ -1,2 +1,1 @@
-# selector2
-# \selector2\artifacts\app-order.jar
+[![Build status](https://ci.appveyor.com/api/projects/status/4tr1357uxrkdgyee/branch/main?svg=true)](https://ci.appveyor.com/project/oleg057orel/selector2/branch/main)
